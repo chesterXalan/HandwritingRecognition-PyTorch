@@ -1,2 +1,3 @@
 # HandwritingRecognition-PyTorch
- A sample for handwriting recognition in python
+
+A sample for handwriting recognition in PyTorch.
